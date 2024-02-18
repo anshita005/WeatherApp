@@ -1,0 +1,30 @@
+/* Add these styles to your styles.css file */
+
+/* Temperature Card */
+.temperature-card {
+    background-color: #047485; /* Change background color */
+    color: #856404; /* Change text color */
+}
+
+/* Humidity Card */
+.humidity-card {
+    background-color: #cfe2f3; /* Change background color */
+    color: #084298; /* Change text color */
+}
+
+/* Wind Card */
+.wind-card {
+    background-color: #d4edda; /* Change background color */
+    color: #155724; /* Change text color */
+}
+
+/* Card Headers */
+.card-header {
+    background-color: #0d6efd; /* Change background color */
+    color: #fff; /* Change text color */
+}
+
+/* Card Borders */
+.border-primary {
+    border-color: #0d6efd !important; /* Change border color */
+}
